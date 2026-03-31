@@ -68,10 +68,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bujapetas&theme=github-compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bujapetas&theme=flat&no-frame=true&margin-w=8" />
-</p>
-
 ---
 
 ## 🤝 Connect
